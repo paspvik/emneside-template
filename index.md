@@ -1,4 +1,4 @@
-{% include top-box.html %}
+{% include top-box.html %} <!-- Kode for å inkludere boksen på toppen av siden. Se _config.yml for å gjøre endringer. -->
 
 ## Kursbeskrivelse 
 
