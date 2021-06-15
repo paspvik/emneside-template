@@ -1,10 +1,16 @@
 
-#----------Nødvendig----------------------------------------------------------------------
-bilde: https://github.com/paspvik/plainside/blob/gh-pages/assets/img/py.png?raw=true #Fagbilde
-name: Sok-1400 Introduksjon til python #Fagtittel
+#----------Instillinger: Boks på toppen av side----------------------------------------------------------------------
+bilde: https://github.com/paspvik/plainside/blob/gh-pages/assets/img/py.png?raw=true #Emnebilde
+name: Sok-1400 Introduksjon til python #Emnetittel
 semester: Høst 2021
 
-#--------------Valgfritt---------------------------------------------------------------------
+
+
+
+
+
+
+#--------------Avanserte instillinger---------------------------------------------------------------------
 topbox-farge: 
 
 contentbox-farge:
@@ -23,4 +29,9 @@ title: null #Skal stå tom
 
 
 
+
+
+
+
+#-------------IKKE SLETT---------------------------------------------------------------------
 theme: jekyll-theme-primer
