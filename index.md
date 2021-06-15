@@ -1,6 +1,3 @@
----
-layout: default
----
 {% include top-box.html %}
 
 ## Kursbeskrivelse 
