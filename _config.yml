@@ -6,10 +6,6 @@ semester: Høst 2021
 
 
 
-
-
-
-
 #--------------Avanserte instillinger---------------------------------------------------------------------
 topbox-farge: 
 
@@ -29,9 +25,7 @@ title: null #Skal stå tom
 
 
 
-
-
-
-
 #-------------IKKE SLETT---------------------------------------------------------------------
 theme: jekyll-theme-primer
+markdown: kramdown
+auto_ids: false
