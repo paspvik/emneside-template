@@ -28,4 +28,4 @@ title: null #Skal stå tom
 #-------------IKKE SLETT---------------------------------------------------------------------
 theme: jekyll-theme-primer
 markdown: kramdown
-auto_ids: false
+   auto_ids: false
