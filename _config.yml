@@ -1,6 +1,6 @@
 
 #----------Instillinger: Boks på toppen av side----------------------------------------------------------------------
-bilde: https://github.com/paspvik/plainside/blob/gh-pages/assets/img/py.png?raw=true #Emnebilde
+bilde: https://raw.githubusercontent.com/uit-econ/emneside-template/main/assets/img/py.png #Emnebilde
 name: Sok-1400 Introduksjon til python #Emnetittel
 semester: Høst 2021
 
